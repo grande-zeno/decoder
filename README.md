@@ -23,4 +23,4 @@ The pyramid increases by one like so:
 4,5,6
 ```
 
-The code to deciphering the message lies at the end of each pyramid. For this file, the program outputs ``` I love computers ```.
+The code to deciphering the message lies at the end of each pyramid line. For this file, the program outputs ``` I love computers ```.
