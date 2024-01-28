@@ -15,7 +15,7 @@ The text file is of the form:
 
 The task was to decode a hidden message based on the arrangement of these numbers in a ``` pyramid structure ```
 
-The pyramid increases by one row like so:
+The pyramid increases by one like so:
 
 ```
 1
